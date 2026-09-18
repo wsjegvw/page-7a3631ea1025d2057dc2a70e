@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "0790c96e80061aa39c146dd1",
+  "owner": "wsjegvw",
+  "repo": "page-7a3631ea1025d2057dc2a70e",
+  "title": "魅影极速",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "7a3631ea1025d2057dc2a70e",
+      "a": "魅影极速",
+      "b": "小火箭节点",
+      "entity": "魅影极速",
+      "brand": "魅影极速",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "b70664bc19574b9a1fd9d4bbd00192b70fdbb27e70e999b4c3951ad57c3f6ed2",
+      "content": {
+        "primary_entity": "魅影极速",
+        "keyword1": "魅影极速",
+        "keyword2": "小火箭节点",
+        "content": {
+          "AI_CLIENTS_INTRO": "不同系统按设备类型选择客户端，依据客户端文档导入订阅配置。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "先确认设备数量与月流量，再选择合适套餐开始使用。",
+          "AI_CLOSING_TITLE": "选对套餐，连接更快",
+          "AI_DESCRIPTION": "，面向需要跨境访问的用户提供多节点加速与流媒体优化支持。魅影极速现有基础版、旗舰版和团队版三档订阅，分别对应不同流量额度与设备数量上限。基础版适合手机或平板轻度使用，旗舰版增加 IPLC 专线与优先工单支持，团队版面向多设备协同与企业定制路由场景。订阅周期可按月或按年计费，年付价格更优惠。",
+          "AI_FEATURES_INTRO": "从套餐规格、设备数量与订阅周期三个角度对比，帮助快速定位合适方案。",
+          "AI_FEATURES_TITLE": "核心订阅特点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量、3 台设备，旗舰版 300GB 与 5 台设备，团队版 1000GB 与 20 台设备。",
+          "AI_FEATURE_TEXT_2": "旗舰版与团队版提供 IPLC 专线及更完善的流媒体解锁，适合游戏加速和高码率视频场景。",
+          "AI_FEATURE_TEXT_3": "三档套餐均支持月付与年付，年付分别为 ¥150、¥350、¥850，适合长期使用的用户。",
+          "AI_FEATURE_TITLE_1": "套餐规格",
+          "AI_FEATURE_TITLE_2": "线路优化",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "选择服务、确认适配要求、导入订阅配置，三步完成部署。",
+          "AI_GUIDE_TITLE": "订阅配置步骤",
+          "AI_HERO_INTRO": "魅影极速提供多档跨境加速订阅，按流量额度、设备数量和线路类型区分。选择套餐后，在对应客户端导入订阅即可使用。",
+          "AI_HERO_SUBTITLE": "多档套餐，按需选择",
+          "AI_HIGHLIGHT_1": "月付 ¥15 起，覆盖多档流量",
+          "AI_HIGHLIGHT_2": "单账号最多支持 20 台设备",
+          "AI_HIGHLIGHT_3": "IPLC 专线可选，优化游戏体验",
+          "AI_PLANS_INTRO": "三档套餐在流量、设备数量与线路质量上逐级提升，可按实际用量选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常流量和同时在线设备数量，从基础版、旗舰版或团队版中选定一档。",
+          "AI_STEP_TEXT_2": "查看所选套餐的流量额度、设备限制与线路类型，确认满足使用需求。",
+          "AI_STEP_TEXT_3": "在对应设备客户端中依照文档导入订阅配置，即可开始使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_VISUAL_TITLE": "魅影极速订阅",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "魅影极速基础版和旗舰版有什么区别？",
+          "AI_FAQ_ANSWER_1": "基础版每月100GB流量、支持3台设备，侧重轻量使用；旗舰版每月300GB流量、支持5台设备，增加原生流媒体解锁、IPLC专线游戏优化和7x24优先工单支持。",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时登录几台设备？",
+          "AI_FAQ_ANSWER_2": "基础版支持3台设备同时在线，旗舰版支持5台，团队版支持20台。超出在线数量时，新设备可能挤占已有连接，建议按实际设备数选档。",
+          "AI_FAQ_QUESTION_3": "按年付能省多少？",
+          "AI_FAQ_ANSWER_3": "基础版月付¥15、年付¥150/年，约省两个月费用；旗舰版月付¥35、年付¥350/年；团队版月付¥85、年付¥850/年。长期使用按年付更划算。",
+          "AI_FAQ_QUESTION_4": "订阅应该如何导入客户端？",
+          "AI_FAQ_ANSWER_4": "先根据设备系统选择对应客户端，再依照该客户端的文档导入订阅地址。不同客户端导入方式略有差异，遇到节点不显示时可检查订阅链接是否完整复制。",
+          "AI_FAQ_QUESTION_5": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_5": "团队版每月1000GB流量、支持20台设备，并提供VIP专属高带宽节点、企业定制路由和专属客户经理服务，适合小型团队或多人协作场景统一管理。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "7d7bc29a35f9ebbf5f40628039c9df492cd6426bc8e7b19b310b2b4cbef65828",
+    "sitemap.xml": "a52f6fe27d1de88b4a79f67bc165c9cb54cfa4a2e23a45a3b643b4bd812fa71e",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "9523569bd51a97e897a6e9bf663d588e7241f7df63ab1d2aa3c3ab73a5c5fe81"
+}
